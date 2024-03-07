@@ -44,4 +44,5 @@ Exemplu de utilizare a obiectelor și metodelor:
 int main() {
     // Implementarea exemplului de utilizare se află în fișierul main.cpp
     return 0;
-}```
+}
+
